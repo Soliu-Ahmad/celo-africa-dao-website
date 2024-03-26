@@ -59,3 +59,25 @@ To learn more about Chakra-ui , take a look at the following resources:
 - On your pull request, refrence the issue you worked on by mentioning the issue number or uurl you worked on.
 
 Contributions to this repository can be made via pull requests on GitHub to the Staging Branch. When opening a PR, please tag any of the project managers.
+
+
+
+<!-- "dependencies": {
+    "@chakra-ui/icon": "^3.0.16",
+    "@chakra-ui/icons": "^2.0.19",
+    "@chakra-ui/image": "^2.0.16",
+    "@chakra-ui/next-js": "^2.1.4",
+    "@chakra-ui/react": "^2.7.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@netlify/plugin-nextjs": "^4.41.2",
+    "autoprefixer": "10.4.14",
+    "eslint": "8.42.0",
+    "eslint-config-next": "13.4.4",
+    "framer-motion": "^10.12.16",
+    "next": "13.4.4",
+    "postcss": "8.4.24",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.9.0"
+  } -->
