@@ -1,4 +1,5 @@
 
+import Footer from "@/components/Footer";
 import Head from "next/head";
 
 export default function Home() {
@@ -19,6 +20,7 @@ export default function Home() {
         />
       </Head>
       <h1>Celo Africa DAO</h1>
+      <Footer/>
     </div>
   );
 }
